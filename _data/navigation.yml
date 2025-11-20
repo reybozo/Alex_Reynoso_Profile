@@ -19,7 +19,7 @@ main:
 portfolio:
   - title: "Research"
     children:
-      - title: "BlogPost 1"
-        url: https://github.com/HON-310/bp-reybozo/blob/main/bp01.md
+      - title: "Publications"
+        url: /portfolio/#publications
       - title: "Working Papers"
         url: /portfolio/#working-papers
