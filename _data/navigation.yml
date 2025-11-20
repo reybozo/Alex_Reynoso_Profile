@@ -3,11 +3,11 @@ main:
   - title: "Home"
     url: /
   - title: "Curriculum Vitae"
-    url: /assets/docs/Mission.pdf
+    url: /assets/docs/resume_10_29.pdf
   - title: "Research"
     url: /portfolio/
-  - title: "Teaching"
-    url: /teaching/
+  #- title: "Teaching"
+  #  url: /teaching/
   - title: "Links"
     url: /links/
   - title: "Contact"
