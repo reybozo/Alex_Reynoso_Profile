@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Curriculum Vitae"
+  - title: "Resume"
     url: /assets/docs/resume.pdf
   - title: "Research"
     url: /portfolio/
