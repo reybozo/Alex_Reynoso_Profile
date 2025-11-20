@@ -12,8 +12,5 @@ permalink: /contact/
 Northern Illinois University  
 Phone: 815-566-6480
 
-###### Office Hours:  
-by appointment
-
 ### Email  
 ![image of email]({{site.baseurl}}/assets/images/email.jpg)
