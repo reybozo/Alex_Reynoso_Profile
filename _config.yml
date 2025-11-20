@@ -1,13 +1,13 @@
 # Configs
 
-title: "Jekyll Profile"
-name: "A Free Job Market Profile in Jekyll"
-email: 
+title: "Alex Reynoso"
+name: "Alex Reynoso"
+email: alex.reynoso025@gmail.com 
 url: "https://econ-691.github.io"
 baseurl: "/Jekyll-for-Job-Market"
 repository: "ECON-691/Jekyll-for-Job-Market"
 header:
-  image: /assets/images/alexheadshot.jpg
+  image: /assets/images/headshot.jpg
 
 include:
   - _pages
