@@ -30,22 +30,34 @@ It was shocking to see how much easier using Github's interface is for all git p
 </details>
 
 <details markdown="1"><summary>Blog Title</summary>
-  Blog Contents</details>
+  Blog Contents
+
+</details>
 
 <details markdown="1"><summary>Blog Title</summary>
-  Blog Contents</details>
+  Blog Contents
+
+</details>
 
 <details markdown="1"><summary>Blog Title</summary>
-  Blog Contents</details>
+  Blog Contents
+
+</details>
 
 <details markdown="1"><summary>Blog Title</summary>
-  Blog Contents</details>
+  Blog Contents
+
+</details>
 
 <details markdown="1"><summary>Blog Title</summary>
-  Blog Contents</details>
+  Blog Contents
+
+</details>
 
 <details markdown="1"><summary>Blog Title</summary>
-  Blog Contents</details>
+  Blog Contents
+  
+</details>
 
 
 <h2 id="publications">Publications</h2>
