@@ -3,8 +3,8 @@
 title: "Alex Reynoso"
 name: "Alex Reynoso"
 email: alex.reynoso025@gmail.com 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
+url: ""
+baseurl: ""
 repository: "ECON-691/Jekyll-for-Job-Market"
 header:
   image: /assets/images/alexheadshot.jpg
