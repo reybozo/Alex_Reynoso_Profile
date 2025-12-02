@@ -4,10 +4,10 @@ main:
     url: /
   - title: "Resume"
     url: /assets/docs/resume.pdf
-  - title: "Research"
+  - title: "Blog Posts"
     url: /portfolio/
-  #- title: "Teaching"
-  #  url: /teaching/
+  - title: "Projects"
+    url: /projects/
   # - title: "Links"
   #   url: /links/
   - title: "Contact"
