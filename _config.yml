@@ -39,9 +39,9 @@ minimal_mistakes_skin: "contrast"
 author:
   name   : "Alex Reynoso"
   avatar : "/assets/images/alexheadshot.jpg"
-  bio    : "Alex Reynoso | aspiring software engineer. "
+  bio    : "Alex Reynoso | Aspiring software engineer. "
   location: "DeKalb, Illinois"
-  github : "github.com/reybozo"
+  github : "reybozo"
   linkedin: "alex-reynoso05" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
   email  : "alex.reynoso025@gmail.com"
 
