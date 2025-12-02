@@ -3,7 +3,7 @@ title: "Open Source Contributions"
 header:
   image: /assets/images/niubanner.png
 classes: wide
-permalink: /contributions/
+permalink: /projects/
 ---
 
 This page lists my open-source contributions and relevant project links. It is a quick overview — edit this file to add more entries.
