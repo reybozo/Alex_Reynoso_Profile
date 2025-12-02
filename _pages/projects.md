@@ -22,4 +22,4 @@ This page lists my open-source contributions and relevant project links. It is a
     - Merged commit: [64da68f](https://github.com/freeCodeCamp/freeCodeCamp/commit/64da68fdfd87aae69e9c7bfae1c182c68453c310)
     - Closes: [#63531](https://github.com/freeCodeCamp/freeCodeCamp/issues/63531)
     - Reviewer: [@huyenltnguyen](https://github.com/huyenltnguyen)
-    - Notes: small typo fix in the "class and object" lecture; CI checks passed.
+    - Notes: small typo fix in the "class and object" lecture
