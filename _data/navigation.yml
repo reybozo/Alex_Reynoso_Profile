@@ -8,8 +8,8 @@ main:
     url: /portfolio/
   #- title: "Teaching"
   #  url: /teaching/
-  - title: "Links"
-    url: /links/
+  # - title: "Links"
+  #   url: /links/
   - title: "Contact"
     url: /contact/
   # - title: "Blog"
