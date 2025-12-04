@@ -13,7 +13,7 @@ This page lists my open-source contributions and relevant project links. It is a
 - **Username:** `{{ site.author.github }}`
 - **Profile:** https://github.com/{{ site.author.github }}
 
-## Notable Contributions (auto-populated)
+## Notable Contributions
 
 - **freeCodeCamp** — Contributed to documentation and small fixes. See: https://github.com/freeCodeCamp/freeCodeCamp
   - PR: [fix(curriculum): fixed typo in class and object lecture (#63585)](https://github.com/freeCodeCamp/freeCodeCamp/pull/63585)
